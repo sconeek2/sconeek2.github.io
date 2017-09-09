@@ -1,0 +1,52 @@
+
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+body {
+	background-color: pink;
+
+}
+
+.section1{
+	background-color: #0000cc;
+
+}
+
+.section2{
+	background-color: #1a1aff;
+	width: 45%;
+	float: right;
+}
+
+.section3{
+	background-color: #6666ff;
+	width: 45%;
+	float: left;
+}
+
+.section4{
+	background-color: #b3b3ff;
+	width: 45%;
+	float: right;
+}
+
+.section5{
+	background-color: #e6e6ff;
+	width: 45%;
+	float: left;
+}
+
+.section6{
+	background-color: #0000cc;
+	width: 45%;
+	float: right;
+}
+
+.section7{
+	background-color: #1a1aff;
+	width: 45%;
+	float: left;
+}
